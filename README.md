@@ -17,3 +17,9 @@ Test Factor Regression effect
 # algo.py
 在策略模块实现的算法
 有一个问题，通过策略模块调用会自动转换到python 2，如果使用python 3 编码，编译器是python 2会出错
+
+# result_factor_pd_by_month_no_reverse.csv
+月度因子溢价原始数值，该部分因子没有添加倒数
+
+# result_factor_pd_by_month_reverse.csv
+月度因子溢价的原始数值，该部分因子使用了倒数，主要为了避免负值的影响

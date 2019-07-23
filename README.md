@@ -30,3 +30,6 @@ Test Factor Regression effect
 
 # algo_regressiontxt.py
 给出了基于多因子、基于排序的回归算法，目前来看基于PB、ROE（inc_return）的两因子模型超额收益较为稳定
+
+# 因子回归+HMM.py
+使用上面的因子回归算法，加上HMM的状态预测，但是目前看来收益不及单纯的因子回归

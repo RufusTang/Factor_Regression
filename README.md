@@ -33,3 +33,6 @@ Test Factor Regression effect
 
 # 因子回归+HMM.py
 使用上面的因子回归算法，加上HMM的状态预测，但是目前看来收益不及单纯的因子回归
+
+# Generate_HMM.ipynb
+Generate HMM model by Python 3

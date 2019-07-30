@@ -1,4 +1,4 @@
-# Factor_Regression
+﻿# Factor_Regression
 Test Factor Regression effect
 
 # ARMA_Modeling.ipynb
@@ -36,3 +36,7 @@ Test Factor Regression effect
 
 # Generate_HMM.ipynb
 Generate HMM model by Python 3
+
+
+# Mean_Reversion_V1.ipynb
+几个算法，OLS、Kalman、ADF检测、Hurst系数、Half-Life计算
